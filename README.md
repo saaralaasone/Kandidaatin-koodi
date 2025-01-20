@@ -1,2 +1,2 @@
-# Kandidaatinty-n-koodi
-Kandidaatin työssä käyttämäni koodi.
+# Kandin-koodi
+Kandidaatin työssä käyttämäni koodi. Koodatessa on käytetty Jupyter Notebook-ohjelmaa ja ohjelmointikielenä pythonia.
